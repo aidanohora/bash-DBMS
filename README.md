@@ -2,7 +2,7 @@
 A rudimentary Database Management System server built from bash scripts that can be accessed by multiple clients simultaneously.
 
 To use:
-1. Extract the zip archive somewhere onto your computer.
+1. Download the files to a folder somewhere on your computer.
 2. Open multiple bash command terminals (at least 2).
 3. On one terminal, enter "./server.sh" to run the server (or "./server.sh &" to run the server in the background.
 4. On another terminal (or the same one if you ran the server in the background), start a client and connect it to the server by
