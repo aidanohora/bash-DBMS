@@ -1,5 +1,5 @@
 # BashDBMS
-A rudimentary Database Management System server built from bash scripts with locking implemented to facilitate access by multiple clients simultaneously.
+A rudimentary Database Management System built from bash scripts with locking implemented to facilitate access by multiple clients simultaneously.
 
 To use:
 1. Download the files to a folder somewhere on your computer.
