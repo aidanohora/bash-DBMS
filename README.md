@@ -1,4 +1,4 @@
-# BashDBMS
+# bash-DBMS
 A rudimentary Database Management System built from bash scripts with locking implemented to facilitate access by multiple clients simultaneously.
 
 To use:
